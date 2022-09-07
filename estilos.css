@@ -5,3 +5,12 @@ body
     color: yellow;
     
 }
+
+div
+{
+    text-align: center;
+    font-size: medium;
+    color:blue;
+    background-color: darkslategray;
+
+}
